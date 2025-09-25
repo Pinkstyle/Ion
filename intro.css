@@ -1,0 +1,26 @@
+body{
+    background-image: url(Ion\ Background.JPG);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+img{
+  position: absolute;
+  right: -50px;
+  filter:drop-shadow(img)
+    
+
+}
+
+footer{
+    color:hsl(60, 94%, 12%);
+    font-size:x-large;
+    font-style: bold
+
+}
+
+#psl{
+    font-size: x-large;
+}

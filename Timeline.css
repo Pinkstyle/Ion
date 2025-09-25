@@ -1,0 +1,11 @@
+body{
+    background-image: url(Time.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    font-size: x-large ;
+}
+
+#psli{
+    color:bisque;
+}

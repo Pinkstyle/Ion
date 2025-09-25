@@ -1,0 +1,142 @@
+body{
+    background-image: url(Bounty.jpg);
+    filter:brihgtness(10%)
+    
+}
+
+#char2{
+    position:absolute;  
+    top:700px;
+    left:8px
+    
+    
+}
+
+#char3{
+    position:absolute;
+    right:600px
+}
+
+#whodis{
+    position:absolute;
+    top:700px;
+    right:600px
+    
+}
+
+#redt{
+    color: hsl(0, 80%, 22%)
+}
+
+#blink{
+    position: absolute;
+    left: 360px;
+    top: 150px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#blink1{
+    position: absolute;
+    left: 360px;
+    top: 50px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#kai{ 
+    position: absolute;
+    left: 360px;
+    top: 650px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+#kai1{
+    position: absolute;
+    left: 360px;
+    top: 750px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#pink{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#pink1{
+    position: absolute;
+    right: 100px;
+    top: 150px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#uk{
+    position: absolute;
+    right: 100px;
+    top: 680px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#UK1{
+    position: absolute;
+    right: 100px;
+    top: 780px;
+    font-size: x-large;
+    color: hsl(0, 0%, 0%);
+    font-style: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+#homey1{
+    position: absolute;
+    top: 495px;
+    font-size:x-large;
+    
+}
+
+#button0{
+    position: absolute;
+    top: 555px;
+     font-size: 20px
+}
+
+#homey3{
+    position: absolute;
+    top: 575px;
+    font-size: x-large;
+    
+}
+
+#button5{
+    position: absolute;
+    top: 635px;
+    font-size: 20px;
+
+}
